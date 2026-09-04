@@ -1,0 +1,21 @@
+name: lexsphere
+description: Rahish Consultancy - legal & corporate advisory app. Runs on Web, Android and iOS.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  cupertino_icons: ^1.0.8
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.3.2
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
